@@ -68,13 +68,13 @@ function draw()
   }
 
 
-  textSize(100/ws);
-  stroke(150,255,150);
-  fill(150,255,150);
-  center_text("B I N A R Y");
-  text("B I N A R Y",text_x,400/ws);
-  center_text("M A T R I X");
-  text("M A T R I X",text_x,500/ws);
+  //textSize(100/ws);
+  //stroke(150,255,150);
+  //fill(150,255,150);
+  //center_text("B I N A R Y");
+  //text("B I N A R Y",text_x,400/ws);
+  //center_text("M A T R I X");
+  //text("M A T R I X",text_x,500/ws);
 }
 
 ////////// CENTER TEXT ////////////////////////////////////////////////////////
